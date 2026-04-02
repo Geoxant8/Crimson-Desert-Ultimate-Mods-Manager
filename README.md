@@ -1,6 +1,14 @@
 # Crimson-Desert-Ultimate-Mods-Manager
 
 
+
+![Status](https://img.shields.io/badge/status-beta-yellow?style=for-the-badge)
+![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue?style=for-the-badge)
+![Game](https://img.shields.io/badge/game-Crimson%20Desert-red?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+
+
+
 <img width="1250" height="817" alt="image" src="https://github.com/user-attachments/assets/2bd2c6e2-d88f-45d0-a77b-8e7a022f8349" />
 
 

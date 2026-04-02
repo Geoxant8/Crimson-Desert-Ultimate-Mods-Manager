@@ -12,6 +12,9 @@
 <img width="1250" height="817" alt="image" src="https://github.com/user-attachments/assets/2bd2c6e2-d88f-45d0-a77b-8e7a022f8349" />
 
 
+![⬇️ Download Latest Release](https://github.com/Geoxant8/Crimson-Desert-Ultimate-Mods-Manager/releases/download/download/Crimson.Desert.ModManager.zip)
+
+
 # 🌵 Crimson Desert Ultimate Mods Manager (CDUMM)
 
 ## 🧩 About

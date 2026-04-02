@@ -77,7 +77,7 @@ The manager also includes a built-in **bug report generator** that collects logs
 ## 📥 Installation & Requirements
 Getting started is quick and requires no additional dependencies.
 
-1. Download `CrimsonDesertModManager.exe`  
+1. Download `CrimsonDesertModManager.msi`  
 2. Place it anywhere on your system  
 3. Launch the application  
 4. Select your Crimson Desert installation folder  
